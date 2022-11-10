@@ -10,6 +10,12 @@ There isn't much to this thing. Run the application to see the ports being utili
 cargo run -- -j <threads> <IPv4/IPv6>
 ```
 
+Alternatively, you do not have to specify the number of threads. It defaults to 4.
+
+```text
+cargo run -- <IPv4/IPv6>
+```
+
 An example of the expected output:
 
 ```text
