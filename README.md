@@ -6,7 +6,7 @@
 
 There isn't much to this thing. Run the application to see the ports being utilized on your network:
 
-```bash
+```text
 cargo run -- -j <threads> <IPv4/IPv6>
 ```
 
