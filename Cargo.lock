@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "ip_sniffer"
+name = "ip_scanner"
 version = "0.1.0"
